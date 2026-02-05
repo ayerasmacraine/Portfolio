@@ -27,7 +27,7 @@ I hope in this portfolio I can show you some of the activiites that I have been 
 ## 🌟 Fun Fact
 
 "I am excited when there's a new coding activity but crashing out when my code is having an error." 
-"I always forget the important part of the coding, like in Java, the semicolon.
+"I always forget the important part of the coding, like in Java, the semicolon."
 
 
 

@@ -46,6 +46,6 @@ I hope in this portfolio I can show you some of the activiites that I have been 
 - 🌐 GitHub: https://github.com/ayerasmacraine
 - 💬 Facebook/IG: https://www.instagram.com/lilary.a
 
--
-## "DREAM BIG."
+
+## "ALWAYS DREAM BIG."
 

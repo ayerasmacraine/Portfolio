@@ -1,0 +1,119 @@
+
+    body
+    {
+        background-color: rgb(99, 94, 99);
+        margin-top: 100px ;
+        margin-left: 100px;
+        margin-right: 100px;
+        margin-bottom: 100px;
+        font-family: 'Times New Roman', Times, serif;
+        
+    }
+
+    img
+    {
+        width: 150px;
+        height: 150px;
+        border: 8px;
+        border-radius: 50%;
+        
+
+    }
+
+    .name
+    {
+
+        background: rgb(165, 157, 157);
+        padding: 30px;
+        box-shadow: 10px ;
+        border-bottom: 2px solid #ddd;
+        text-align: center;
+        font-size: 12px;
+        
+    }
+    
+    .summary
+    {
+        border-top: 5px solid #584747;
+        text-align: center;
+        padding: 2px;
+       
+    
+    }
+
+    .expertice
+    {
+        border-bottom: 5px solid #584747;
+        text-align: center;
+        padding: 2px;
+        
+    }
+
+    .career
+    {
+        border-bottom: 5px solid #584747;
+        text-align: center;
+        padding: 2px;
+       
+    }
+    
+    .education
+    {
+        text-align: center;
+        margin-bottom: 5;
+        border-bottom: 5px solid #584747;
+        padding: 2px;
+       
+    }
+    li
+    {
+        text-align: left;
+    }
+
+    ul
+    {
+         a {text-decoration: none;}
+         a{text-align: left;}
+
+       a:hover{color: orangered;}
+
+       a:link{color: black}
+
+       a:active{color: pink}
+
+       a:visited{color: black}
+           
+    }
+    
+    .experience
+    {
+        text-align: center;
+        margin-bottom: 5;
+        border-bottom: 5px solid #584747;
+        padding: 2px;
+    }
+
+    .hardware
+    {
+        text-align: center;
+        margin-bottom: 5;                                                                  
+        border-bottom: 5px solid #584747;
+        padding: 2px;
+    }
+
+    .software
+    {
+        text-align: center;
+        margin-bottom: 5;
+        border-bottom: 5px solid #584747;
+        padding: 2px;
+    }
+
+   .additional
+   {
+        text-align: center;
+        margin-bottom: 5;
+        border-bottom: 5px solid #584747;
+        padding: 2px;
+        width: auto;
+   }

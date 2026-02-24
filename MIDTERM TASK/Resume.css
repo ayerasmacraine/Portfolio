@@ -1,7 +1,6 @@
-
     body
     {
-        background-color: rgb(99, 94, 99);
+        background-color: rgb(255, 253, 255);
         margin-top: 100px ;
         margin-left: 100px;
         margin-right: 100px;
@@ -32,39 +31,6 @@
         
     }
     
-    .summary
-    {
-        border-top: 5px solid #584747;
-        text-align: center;
-        padding: 2px;
-       
-    
-    }
-
-    .expertice
-    {
-        border-bottom: 5px solid #584747;
-        text-align: center;
-        padding: 2px;
-        
-    }
-
-    .career
-    {
-        border-bottom: 5px solid #584747;
-        text-align: center;
-        padding: 2px;
-       
-    }
-    
-    .education
-    {
-        text-align: center;
-        margin-bottom: 5;
-        border-bottom: 5px solid #584747;
-        padding: 2px;
-       
-    }
     li
     {
         text-align: left;
@@ -85,11 +51,46 @@
            
     }
     
+    
+    .summary
+    {
+        border-top: 3px solid #584747;
+        text-align: center;
+        padding: 2px;
+       
+    
+    }
+
+    .expertice
+    {
+        border-bottom: 3px solid #584747;
+        text-align: center;
+        padding: 2px;
+        
+    }
+
+    .career
+    {
+        border-bottom: 3px solid #584747;
+        text-align: center;
+        padding: 2px;
+       
+    }
+    
+    .education
+    {
+        text-align: center;
+        margin-bottom: 5;
+        border-bottom: 3px solid #584747;
+        padding: 2px;
+       
+    }
+    
     .experience
     {
         text-align: center;
         margin-bottom: 5;
-        border-bottom: 5px solid #584747;
+        border-bottom: 3px solid #584747;
         padding: 2px;
     }
 
@@ -97,7 +98,7 @@
     {
         text-align: center;
         margin-bottom: 5;                                                                  
-        border-bottom: 5px solid #584747;
+        border-bottom: 3px solid #584747;
         padding: 2px;
     }
 
@@ -105,7 +106,7 @@
     {
         text-align: center;
         margin-bottom: 5;
-        border-bottom: 5px solid #584747;
+        border-bottom: 3px solid #584747;
         padding: 2px;
     }
 
@@ -113,7 +114,13 @@
    {
         text-align: center;
         margin-bottom: 5;
-        border-bottom: 5px solid #584747;
+        border-bottom: 3px solid #584747;
         padding: 2px;
         width: auto;
+   }
+
+   table
+   {
+    border-color: rgb(29, 24, 29);
+    background-color: #beadad;
    }
